@@ -4,7 +4,7 @@
 		if(!ctype_alpha($_POST['lname'])){
 			echo "Erreur de Nom" . "<br>";
 		}
-
+//test modif
 		else {
 			echo "Nom conforme" . "<br>";
 		}
